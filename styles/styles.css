@@ -312,7 +312,7 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 65%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 75%;
@@ -320,10 +320,22 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongodb {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .django {
   width: 70%;
 }
 
